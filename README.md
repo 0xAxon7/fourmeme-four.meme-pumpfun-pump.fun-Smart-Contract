@@ -27,9 +27,9 @@ This repository contains **production-ready meme coin launchpad smart contracts*
 - **BNB Chain (EVM)**: Four.meme-style launchpad with bonding curve, PancakeSwap migration, and UUPS upgradeable contracts.
 - **Solana**: Pump.fun-style launchpad with SPL tokens, bonding curves, and multi-DEX support (Raydium, Meteora, PumpSwap).
 
-Ideal for developers searching for **pump.fun clone**, **four.meme fork**, **Solana token launchpad**, **BNB Chain meme coin launchpad**, or **bonding curve smart contract** reference implementations.
+Ideal for developers searching for **pumpfun smart contract**, **fourmeme smart contract**, or **launchpad smart contract** reference implementations (Solana + BNB Chain).
 
-**Keywords:** meme coin launchpad, pump.fun smart contract, four.meme BNB Chain, Solana bonding curve, DeFi token factory, PancakeSwap migration, Raydium DEX, Meteora DLMM, tokenomics, multi-chain DeFi.
+**Target keywords:** pumpfun smart contract · fourmeme smart contract · launchpad smart contract · bonding curve · Raydium · Meteora · PancakeSwap
 
 ---
 
@@ -148,6 +148,36 @@ Freelance, full-time, and consulting inquiries welcome.
 - **Contact** for business or technical collaboration
 
 > Frontend and backend are maintained separately. Full setups can include dashboards, webhooks, and analytics—reach out to discuss.
+
+---
+
+## GitHub SEO (for repo visibility)
+
+GitHub search ranks by **repo name**, **description**, and **Topics**. Optimized for these search keywords:
+
+**pumpfun smart contract** · **fourmeme smart contract** · **launchpad smart contract**
+
+### 1. Repository description (Settings → General → Description)
+
+Use this on your GitHub repo (About → edit). It includes all three key phrases:
+
+```
+pumpfun smart contract, fourmeme smart contract, launchpad smart contract – Solana & BNB Chain. Bonding curve, Raydium Meteora PancakeSwap.
+```
+
+### 2. Topics (About → Add topics)
+
+Add these so the repo appears for your target searches:
+
+`pumpfun-smart-contract` `fourmeme-smart-contract` `launchpad-smart-contract` `pumpfun` `fourmeme` `launchpad` `smart-contract` `memecoin` `solana` `bnb-chain` `bonding-curve` `raydium` `meteora` `pancakeswap` `defi` `solidity` `anchor` `rust`
+
+### 3. Repository name (optional)
+
+Names that match your keywords well:
+
+- **Covers all three:** `pumpfun-fourmeme-launchpad-smart-contract` (your current name is already good)
+- **Strong for "pumpfun smart contract":** `pumpfun-smart-contract`
+- **Strong for "launchpad smart contract":** `launchpad-smart-contract`
 
 ---
 
